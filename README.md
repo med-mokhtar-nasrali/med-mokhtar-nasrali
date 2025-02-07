@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mokhtar Nasrali</h1>
 <h3 align="center">A hustler Full Stack developer from Tunisia</h3>
 
-- 🔭 I’m currently working on [recipes application](https://github.com/med-mokhtar-nasrali/MERN-Project)
+- 🔭 I’m currently working on [freshka](https://github.com/jabranebenhadjmessaoud/JavaFinalProject)
 
 - 🌱 I’m currently learning **Frameworks, Programming languages**
 
