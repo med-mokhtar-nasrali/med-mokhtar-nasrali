@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/med-mokhtar-nasrali](https://github.com/med-mokhtar-nasrali)
 
-- 💬 Ask me about **React, Angular, Java, Spring-boot, MERN,Python**
+- 💬 Ask me about **React, Angular, Java, Spring-boot, MERN, Python, Flask, Django**
 
 - 📫 How to reach me **mokhtarbackup03@gmail.com**
 
