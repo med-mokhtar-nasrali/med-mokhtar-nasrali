@@ -70,8 +70,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/med-mokhtar-nasrali/med-mokhtar-nasrali/output/snake.svg" alt="Snake animation" />
 
 ###
